@@ -1,0 +1,17 @@
+# Personal data, credentials, caches and generated files
+/data/
+/backups/
+*.exe
+*.dll
+*.pdb
+*.log
+*.zip
+*.nupkg
+*.yuma-backup.json
+.env
+.env.*
+node_modules/
+/tools/vlc/
+/tools/ffmpeg/
+/tools/resolver/
+/.dependencies/

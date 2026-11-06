@@ -1,0 +1,7 @@
+Noctune for Windows
+Windows adaptation and branding: L3B4D
+
+Based on YumaPlayer by MuwMx: https://github.com/MuwMx/YumaPlayer
+With thanks to its creator and contributors. Upstream projects include ArchiveTune, Metrolist and SimpMusic.
+
+Licensed under GNU GPL v3; see LICENSE.txt. Original attribution comments and third-party license notices are retained.
