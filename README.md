@@ -1,6 +1,6 @@
-# Noctune
+        # Noctune
 
-A Windows music player by **L3B4D**, built on YumaPlayer by **MuwMx**.
+A Windows music player by **L3B4D**,                                                      
 
 Noctune adapts the original project for Windows with a dark interface, a movable in-app glass player, an expanded player, animated playback progress, synchronized lyrics when timing is available, discovery, playlists, downloads and local playback.
 
